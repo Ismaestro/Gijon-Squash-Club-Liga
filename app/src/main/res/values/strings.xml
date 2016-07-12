@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Liga Squash</string>
+    <string name="insertGroup">Selecciona un grupo </string>
+    <string name="insertName">Escribe un nombre</string>
+    <string name="seeGroup">Ver grupo</string>
+    <string name="action_rotate">Opciones</string>
+    <string name="title_activity_group">Información del grupo</string>
+    <string name="searchPlayer">Buscar jugador</string>
+    <string name="noPlayerName">¡Introduce un nombre!</string>
+    <string name="titleGroup">Cargando&#8230;</string>
+    <string name="group">Grupo</string>
+    <string name="points">Puntos</string>
+    <string name="notFound">Jugador desconocido!</string>
+    <string name="drawerOpen">Abierto el menu</string>
+    <string name="share">Compartir</string>
+    <string name="shareApp">La App de la liga!</string>
+    <string name="flagDescription">icono</string>
+    <string name="itemRotate">Rotar</string>
+    <string name="errorConnection">Error de conexión!</string>
+    <string name="preferenceFileKey">Ismaestro</string>
+
+    <string-array name="options">
+        <item>Escoger grupo</item>
+        <item>Buscar por nombre</item>
+        <item>Contactar</item>
+        <item>Calificar app</item>
+    </string-array>
+    <string-array name="groups">
+        <item>Grupo 1</item>
+        <item>Grupo 2</item>
+        <item>Grupo 3</item>
+        <item>Grupo 4</item>
+        <item>Grupo 5</item>
+        <item>Grupo 6</item>
+        <item>Grupo 7</item>
+        <item>Grupo 8</item>
+        <item>Grupo 9</item>
+        <item>Grupo 10</item>
+        <item>Grupo 11</item>
+        <item>Grupo 12</item>
+        <item>Grupo 13</item>
+    </string-array>
+
+</resources>

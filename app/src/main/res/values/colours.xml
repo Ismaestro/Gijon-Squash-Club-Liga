@@ -1,0 +1,12 @@
+<resources>
+
+    <color name="lightRed">#C8402A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="green">#0BAC00</color>
+    <color name="softGrey">#D0D0D0</color>
+    <color name="lightGrey">#D4E0EE</color>
+    <color name="red">#B7340D</color>
+    <color name="darkRed">#992f2f</color>
+    <color name="black">#000000</color>
+
+</resources>
