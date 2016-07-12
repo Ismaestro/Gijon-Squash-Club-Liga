@@ -1,8 +1,15 @@
-GijonSquashClub App
+# GijonSquashClub App #
 
-App para la liga de Squasg de Gijon
+### What is this repository for? ###
 
-Con esta app, se pretende que los jugadores, puedan ver los resultados y modificarlos.
+* Build an app, to serve the players in the Gijon Squash club league
 
+### How do I get set up? ###
 
-Esta desarrollada con Android Studio y solo para Android.
+* Use Android Studio like a normal app
+
+### Who do I talk to? ###
+
+* Repo owner or admin
+
+## [Google Play](https://play.google.com/store/apps/details?id=gijonsquashclub.liga) ##
