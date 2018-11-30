@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">GijonSquashClub App</h3>
+  <h1 align="center">GijonSquashClub App</h1>
 
   <p align="center">
     An app, to have a list with results for the players in the Gijon Squash club league
