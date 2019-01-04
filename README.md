@@ -4,9 +4,15 @@
   <p align="center">
     An app, to have a list with results for the players in the Gijon Squash club league
     <br>
+    <br>
+    <a href="https://play.google.com/store/apps/details?id=gijonsquashclub.liga">
+      <img src="https://media.giphy.com/media/2Yb1AnOwYGBWjuXAKQ/giphy.gif" alt="Demo example"/>
+    </a>
+    <br>
     <a href="https://github.com/Ismaestro/Gijon-Squash-Club-Liga/issues/new?template=bug.md">Report bug</a>
     ·
     <a href="https://github.com/Ismaestro/Gijon-Squash-Club-Liga/issues/new?template=feature.md&labels=feature">Request feature</a>
+    <br>
   </p>
 </p>
 
